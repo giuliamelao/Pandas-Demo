@@ -1,5 +1,5 @@
 # Pandas-Demo
-This is a demo of usage of Pandas and Jupyter tools made by Giulia Melao for Encora/DZS team
+This is a demo of usage of Pandas and Jupyter tools made by Giulia Melao
 
 This is an analysis of Stack Overflow Annual Developer Survey from 2022, the link for the original survey below:
 https://insights.stackoverflow.com/survey
